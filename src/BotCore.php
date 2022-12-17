@@ -687,4 +687,4 @@ class BotCore
 
 
 
-$inline_user_id = $update[inline_query][from][1710943136]
+$inli
